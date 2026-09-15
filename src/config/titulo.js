@@ -1,1 +1,1 @@
-module.exports = 'Titulo del componente formativo'
+module.exports = 'Servicio, habilidades de comunicación y técnicas de ventas'
