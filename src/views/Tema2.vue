@@ -337,8 +337,7 @@
                 p.mb-0 A continuación, lo invitamos a consultar el siguiente video para profundizar sus conocimientos sobre las técnicas de atención al cliente y recepción hotelera.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Q5QiDRxYVo0" target="_blank")
-                  span Ver enlace
-                  i.fas.fa-play-circle
+                  span Ir al recurso
 
 
 

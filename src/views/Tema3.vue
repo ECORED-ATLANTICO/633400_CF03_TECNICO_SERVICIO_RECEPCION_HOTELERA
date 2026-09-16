@@ -184,8 +184,7 @@
                 p.mb-0 A continuación, le compartimos el enlace a un video de consulta que le permitirá afianzar los conocimientos en las técnicas de comunicación para una buena atención al cliente.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7AtxDGe8UeU" target="_blank")
-                  span Ver enlace
-                  i.fas.fa-play-circle
+                  span Ir al recurso
         
     separador
     

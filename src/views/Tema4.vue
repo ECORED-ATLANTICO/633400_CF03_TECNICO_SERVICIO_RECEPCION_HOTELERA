@@ -56,8 +56,7 @@
                 p.mb-0 A continuación, lo invitamos a consultar el siguiente video para fortalecer sus habilidades en negociación con clientes del sector hotelero:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ky8mTxJkLas" target="_blank")
-                  span Ver enlace
-                  i.fas.fa-play-circle
+                  span Ir al recurso
 
 
     separador
@@ -124,8 +123,7 @@
                 p.mb-0 Para profundizar en este tema, lo invitamos a consultar el siguiente enlace de video de ACOTUR que aborda las claves para la negociación con clientes y proveedores.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=N8xUvuO470g" target="_blank")
-                  span Ver enlace
-                  i.fas.fa-play-circle
+                  span Ir al recurso
 
 
     .bg-full-width.bg-fondo-3.tarjeta.mb-5

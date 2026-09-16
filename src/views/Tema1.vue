@@ -138,16 +138,14 @@
                 p.mb-0 Para ampliar sus conocimientos sobre la diferencia entre turista y viajero, lo invitamos a leer el siguiente artículo:
               .col-lg-3.col-md-5.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.entornoturistico.com/diferencias-entre-un-turista-y-un-viajero/" target="_blank")
-                  span Abrir enlace
-                  i.fas.fa-link
+                  span Ir al recurso
 
             .row.justify-content-center.align-items-center
               .col-12.col-lg-9.mb-4.mb-lg-0
                 p.mb-0 Asimismo, para profundizar su conocimiento sobre los tipos de turismo, lo invitamos a consultar la página web de la experta Mabel Cajal:
               .col-lg-3.col-md-5.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.mabelcajal.com/tipos-de-turismo/" target="_blank")
-                  span Abrir enlace
-                  i.fas.fa-link
+                  span Ir al recurso
 
 
     separador
@@ -309,8 +307,7 @@
                 p.mb-0 Lo invitamos a consultar el siguiente video para ampliar sus conocimientos sobre la demanda turística.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=gT5_r8rQqFU" target="_blank")
-                  span Ver enlace
-                  i.fas.fa-play-circle
+                  span Ir al recurso
 
     separador
     
@@ -402,8 +399,7 @@
                 p.mb-0 Lo invitamos a consultar el siguiente enlace para profundizar en el tema de calidad y atención al cliente en empresas turísticas:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7o0CLxirA9g" target="_blank")
-                  span Ver enlace
-                  i.fas.fa-play-circle
+                  span Ir al recurso
 
     separador
     
@@ -587,8 +583,7 @@
                 p.mb-0 Lo invitamos a consultar el siguiente video, para profundizar sobre la importancia de las encuestas de satisfacción al cliente en agencias de viajes:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7TK6GtIvw8U" target="_blank")
-                  span Ver enlace
-                  i.fas.fa-play-circle
+                  span Ir al recurso
 
 
     separador
