@@ -55,7 +55,6 @@
           span Modelo AIDA
         img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema6/img06.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto. Atención: captar el interés del cliente hacia el servicio. Interés: generar curiosidad resaltando los beneficios. Deseo: lograr que el cliente quiera adquirir el servicio. Acción: concretar la venta.").mx-auto
         img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema6/img06-m.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto. Atención: captar el interés del cliente hacia el servicio. Interés: generar curiosidad resaltando los beneficios. Deseo: lograr que el cliente quiera adquirir el servicio. Acción: concretar la venta.").mx-auto
-        figcaption Nota.  SENA, (2026).
     
 
     p.mb-4 Existen otras técnicas de venta entre las que se destacan las siguientes:

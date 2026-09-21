@@ -79,7 +79,6 @@
           span Marco normativo colombiano para usuarios de servicios turísticos
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Norma
@@ -259,16 +258,15 @@
         figure
           img(src="@/assets/curso/tema1/img23.png", alt="").img-fluid
           
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="")
       .col-lg-6.col-md-12.order-2.order-lg-1
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 1.
           span Pirámide de Maslow
         img.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img24.svg", alt="Se detalla en la figura los 5 niveles de necesidades de la pirámide de Maslow: Autorrealización, Estima y reconocimiento, Sociales, Seguridad, Fisiológicas.")
         img.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img25.svg", alt="Se detalla en la figura los 5 niveles de necesidades de la pirámide de Maslow: Autorrealización, Estima y reconocimiento, Sociales, Seguridad, Fisiológicas.")
-        figcaption Nota. SENA, (2026).
       
-      .col-lg-6.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-6.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="")
         p.mb-3 En la base se encuentran las necesidades fisiológicas, esenciales para la supervivencia, como la alimentación, el descanso y la salud. Le siguen las necesidades de seguridad, relacionadas con la estabilidad física, económica y emocional. En un nivel superior se ubican las necesidades sociales, que incluyen la pertenencia, el afecto y las relaciones interpersonales.
         .row.align-items-center
           .col-lg-auto.d-none.d-lg-flex
@@ -344,7 +342,6 @@
           span Requerimientos comunes en servicios de alojamiento
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Tipo de requerimiento
@@ -547,7 +544,6 @@
           span Tendencias actuales en la industria hotelera
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Tendencia

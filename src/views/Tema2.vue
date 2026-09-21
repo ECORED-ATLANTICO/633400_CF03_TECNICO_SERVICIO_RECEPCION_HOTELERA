@@ -114,7 +114,6 @@
           span Características del servicio al cliente en el sector turístico
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Característica
@@ -227,7 +226,6 @@
           span Criterios de clasificación de los tipos de clientes
         img.d-none.d-lg-flex(data-aos="fade-down", src="@/assets/curso/tema2/img22.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios: origen, nacionalidad, idioma, edad, género y actividad económica.").mx-auto
         img.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema2/img22-m.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios: origen, nacionalidad, idioma, edad, género y actividad económica.").mx-auto
-        figcaption Nota.  SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-md-8.order-2.order-lg-1
@@ -272,7 +270,6 @@
           span Ejemplos de estándares de servicio en hotelería
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Área

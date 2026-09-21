@@ -45,7 +45,6 @@
           h5.text-bold Figura 3.
           span Elementos de la comunicación
         img(data-aos="fade-down", src="@/assets/curso/tema3/img06.svg", alt="La figura 3 describe los elementos que componen el proceso comunicativo: Emisor: quien transmite el mensaje. Receptor: quien recibe el mensaje. Mensaje: información que se comunica. Canal: medio por el cual se transmite. Código: lenguaje utilizado. Retroalimentación: respuesta del receptor.").mx-auto
-        figcaption Nota.  SENA, (2026).
     
     separador
 
@@ -285,7 +284,7 @@
           .col-xl-3.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema3/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/img27.svg' alt='')
               .tarjeta.bg-color-5.align-content-center
                 .p-4
                   p.mb-0.text-bold Amabilidad.
@@ -293,7 +292,7 @@
           .col-xl-3.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema3/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/img27.svg' alt='')
               .tarjeta.bg-color-5.align-content-center
                 .p-4
                   p.mb-0.text-bold Corrección en el lenguaje.
@@ -301,7 +300,7 @@
           .col-xl-3.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema3/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/img27.svg' alt='')
               .tarjeta.bg-color-5.align-content-center
                 .p-4
                   p.mb-0.text-bold Respeto.
@@ -309,7 +308,7 @@
           .col-xl-3.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema3/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/img27.svg' alt='')
               .tarjeta.bg-color-5.align-content-center
                 .p-4
                   p.mb-0.text-bold Buen trato.
@@ -317,7 +316,7 @@
           .col-xl-3.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema3/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/img27.svg' alt='')
               .tarjeta.bg-color-5.align-content-center
                 .p-4
                   p.mb-0.text-bold Humildad.
@@ -325,7 +324,7 @@
           .col-xl-3.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema3/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/img27.svg' alt='')
               .tarjeta.bg-color-5.align-content-center
                 .p-4
                   p.mb-0.text-bold Profesionalidad.
@@ -333,7 +332,7 @@
           .col-xl-3.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema3/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/img27.svg' alt='')
               .tarjeta.bg-color-5.align-content-center
                 .p-4
                   p.mb-0.text-bold Presentación personal y limpieza.
@@ -341,14 +340,14 @@
           .col-xl-3.col-md-6.col-12.mb-3
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema3/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema3/img27.svg' alt='')
               .tarjeta.bg-color-5.align-content-center
                 .p-4
                   p.mb-0.text-bold Uso adecuado de las palabras en el momento oportuno.
 
       .col-lg-2.col-md-8
         figure
-          img(src='@/assets/curso/tema3/img28.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema3/img28.svg' alt='')
 
 
     separador
@@ -372,7 +371,6 @@
           span Tipos de canales de atención
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Canal
@@ -509,7 +507,6 @@
           span Clasificación de la comunicación telemática según interacción
         .tabla-a.color-acento-contenido
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead.tabla7
               tr.tabla7
                 th.tabla7 Tipo
