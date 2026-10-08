@@ -82,7 +82,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
         .cajon.bg-color-c3.p-4
-          p.mb-0 Por otro lado, los elementos intangibles del servicio los constituyen los aspectos no físicos relacionados con la experiencia que el cliente vive dentro del establecimiento de turismo. Esto se incluyen aspectos como la comunicación, la eficiencia, la relación y el trato con el cliente y la valoración subjetiva que el turista hace del servicio recibido.
+          p.mb-0 Por otro lado, los elementos intangibles del servicio los constituyen los aspectos no físicos relacionados con la experiencia que el cliente vive dentro del establecimiento de turismo. Esto incluyen aspectos como la comunicación, la eficiencia, la relación y el trato con el cliente y la valoración subjetiva que el turista hace del servicio recibido.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
@@ -151,7 +151,7 @@
         p.mb-0 Los componentes básicos del buen servicio son:
 
 
-    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
+    .row.align-items-start.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-9.mb-lg-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
           div(titulo="Seguridad")
@@ -169,47 +169,33 @@
           div(titulo="Accesibilidad")
             p.ms-5 Facilidad de contacto entre el cliente y la empresa a través de diversos canales.
             p.ms-5 #[b Aplicaciones:] líneas de atención, canales digitales y puntos físicos de información.
-          div(titulo="Cortesía")
-            p.ms-5 Trato amable, respetuoso y empático hacia el cliente.
-            p.ms-5 #[b Aplicaciones:] atención cordial en recepción, restaurante y demás áreas.
-          
       .col-md-6.col-lg-3.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/tema2/img16.png")
-
-    .row.justify-content-center.mb-3(data-aos="fade-right")
-      .col-lg-3.col-md-6.mb-4.mb-lg-0
-        .tarjeta.bg-fondo-2.p-4.h-100
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema2/img18.svg' alt='', style="width: 100px;").mx-auto
-          p.mb-1.text-center #[b Profesionalismo:] dominio de conocimientos y habilidades necesarias para prestar el servicio.
-          p.mb-0.text-center Aplicaciones: personal capacitado en procesos, protocolos y atención al cliente.
-
-      .col-lg-3.col-md-6.mb-4.mb-lg-0
-        .tarjeta.bg-fondo-2.p-4.h-100
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema2/img19.svg' alt='', style="width: 100px;").mx-auto
-          p.mb-1.text-center #[b Capacidad de respuesta:] disposición para atender solicitudes y resolver problemas de manera oportuna.
-          p.mb-0.text-center Aplicaciones: responder rápidamente a quejas, solicitudes o inconvenientes.
-
-      .col-lg-3.col-md-6.mb-4.mb-lg-0
-        .tarjeta.bg-fondo-2.p-4.h-100
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema2/img19.svg' alt='', style="width: 100px;").mx-auto
-          p.mb-1.text-center #[b Fiabilidad:] capacidad de cumplir el servicio de manera consistente y sin errores.
-          p.mb-0.text-center Aplicaciones: cumplimiento de reservas, horarios y condiciones ofrecidas.
-
-      .col-lg-3.col-md-6.mb-4.mb-lg-0
-        .tarjeta.bg-fondo-2.p-4.h-100
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema2/img20.svg' alt='', style="width: 100px;").mx-auto
-          p.mb-1.text-center #[b Elementos tangibles:] condiciones físicas que respaldan el servicio (instalaciones, equipos, presentación).
-          p.mb-0.text-center Aplicaciones: infraestructura adecuada, limpieza, uniformes y material informativo.
-
+    
+    .row.align-items-start.justify-content-center.mb-5(data-aos="fade-right")
+      .col-md-6.col-lg-3.d-none.d-lg-flex
+        figure
+          img(src="@/assets/curso/tema2/img16-1.png")
+      .col-lg-9.mb-lg-0
+        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
+          div(titulo="Cortesía")
+            p.ms-5 Trato amable, respetuoso y empático hacia el cliente.
+            p.ms-5 #[b Aplicaciones:] atención cordial en recepción, restaurante y demás áreas.
+          div(titulo="Profesionalismo")
+            p.ms-5 Dominio de conocimientos y habilidades necesarias para prestar el servicio.
+            p.ms-5 #[b Aplicaciones:] personal capacitado en procesos, protocolos y atención al cliente.
+          div(titulo="Capacidad de respuesta")
+            p.ms-5 Disposición para atender solicitudes y resolver problemas de manera oportuna.
+            p.ms-5 #[b Aplicaciones:] responder rápidamente a quejas, solicitudes o inconvenientes.
+          div(titulo="Fiabilidad")
+            p.ms-5 Capacidad de cumplir el servicio de manera consistente y sin errores.
+            p.ms-5 #[b Aplicaciones:] cumplimiento de reservas, horarios y condiciones ofrecidas.
+          div(titulo="Elementos tangibles")
+            p.ms-5 Condiciones físicas que respaldan el servicio (instalaciones, equipos, presentación).
+            p.ms-5 #[b Aplicaciones:] infraestructura adecuada, limpieza, uniformes y material informativo.
+         
+        
     separador
     
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -311,7 +297,7 @@
                 td Tecnología
                 td Conectividad
                 td El servicio de internet debe ser estable y accesible.
-                td Cobertura #[i wifi] en todas las áreas del hotel.
+                td Cobertura #[i Wi-Fi] en todas las áreas del hotel.
               tr
                 td Reservas
                 td Confirmación de reservas

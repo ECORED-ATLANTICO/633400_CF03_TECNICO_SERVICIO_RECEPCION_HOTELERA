@@ -302,7 +302,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img30.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Lo invitamos a consultar el siguiente video para ampliar sus conocimientos sobre la demanda turística.
+                p.mb-0 Lo invitamos a consultar el siguiente video para ampliar sus conocimientos sobre la demanda turística:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=gT5_r8rQqFU" target="_blank")
                   span Ir al recurso
@@ -324,7 +324,7 @@
       .col-lg-2.col-md-6.mb-4.mb-lg-0
         img(src="@/assets/curso/tema1/img33.png",).img-fluid
       .col-lg-10
-        p.mb-3 Entre los requerimientos más comunes se encuentran la flexibilidad en los horarios de ingreso y salida, la ubicación estratégica del establecimiento y la facilidad en los procesos de reserva, la disponibilidad de espacios para reuniones de negocios, el acceso a conectividad inalámbrica (#[i wifi]) y la atención personalizada. Estas solicitudes reflejan la diversidad de perfiles de los usuarios y la necesidad de adaptar el servicio a diferentes contextos, como el turismo de ocio o de negocios.
+        p.mb-3 Entre los requerimientos más comunes se encuentran la flexibilidad en los horarios de ingreso y salida, la ubicación estratégica del establecimiento y la facilidad en los procesos de reserva, la disponibilidad de espacios para reuniones de negocios, el acceso a conectividad inalámbrica (#[i Wi-Fi]) y la atención personalizada. Estas solicitudes reflejan la diversidad de perfiles de los usuarios y la necesidad de adaptar el servicio a diferentes contextos, como el turismo de ocio o de negocios.
 
         .row.justify-content-center.align-items-center
           .col-lg
@@ -356,7 +356,7 @@
                 td Sujeto a disponibilidad de habitaciones.
               tr
                 td Conectividad
-                td Acceso a #[i wifi] estable y de alta velocidad.
+                td Acceso a #[i Wi-Fi] estable y de alta velocidad.
                 td Sistemas / Recepción
                 td Garantizar cobertura y soporte técnico.
               tr
@@ -410,6 +410,8 @@
 
 
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-lg-4.col-md-8
+        img(src="@/assets/curso/tema1/img40.png")
       .col-lg-8.mb-4.mb-lg-0
         TabsA.color-acento-botones()
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Motivaciones personales")
@@ -427,7 +429,7 @@
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Tiempo disponible")
             .row.justify-content-center.align-items-center  
               .col-lg-8.col-md-12.order-2.order-lg-1
-                p.mb-0 Es la cantidad de tiempo libre que tiene el turista para realizar el viaje.<br><br><b>Ejemplo el turismo:</b> viajes cortos de fin de semana versus vacaciones largas.
+                p.mb-0 Es la cantidad de tiempo libre que tiene el turista para realizar el viaje.<br><br><b>Ejemplo en turismo:</b> viajes cortos de fin de semana versus vacaciones largas.
               .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/tema1/img37.svg", style="max-width: 100px !important").mx-auto
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Influencia cultural y social")
@@ -442,54 +444,43 @@
                 p.mb-0 Se resume en el uso de Internet, redes sociales y plataformas digitales para validar o confirmar la decisión de compra.<br><br><b>Ejemplo en turismo:</b> consultar reseñas en páginas como Booking o TripAdvisor.
               .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/tema1/img39.svg", style="max-width: 100px !important").mx-auto
-
+    
+    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0
+        TabsA.color-acento-botones()
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Percepción de calidad")
+            .row.justify-content-center.align-items-center
+              .col-lg-8.col-md-12.order-2.order-lg-1
+                p.mb-0 Valoración del servicio por parte del cliente antes y después de la compra.<br><br><b>Ejemplo en turismo:</b> elegir un hotel con buenas calificaciones.
+              .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
+                img(src="@/assets/curso/tema1/img41.svg", style="max-width: 100px !important").mx-auto
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Experiencias previas")
+            .row.justify-content-center.align-items-center
+              .col-lg-8.col-md-12.order-2.order-lg-1
+                p.mb-0 Vivencias anteriores que influyen en las decisiones futuras de compra.<br><br><b>Ejemplo en turismo:</b> volver a un destino ya visitado.
+              .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
+                img(src="@/assets/curso/tema1/img42.svg", style="max-width: 100px !important").mx-auto
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Promoción y <em>marketing</em>")
+            .row.justify-content-center.align-items-center  
+              .col-lg-8.col-md-12.order-2.order-lg-1
+                p.mb-0 Publicidad como ofertas y estrategias comerciales consultadas o que impactan al cliente.<br><br><b>Ejemplo en turismo:</b> descuentos obtenidos en paquetes turísticos.
+              .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
+                img(src="@/assets/curso/tema1/img43.svg", style="max-width: 100px !important").mx-auto
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Accesibilidad y transporte")
+            .row.justify-content-center.align-items-center
+              .col-lg-8.col-md-12.order-2.order-lg-1
+                p.mb-0 Facilidad para llegar al destino escogido.<br><br><b>Ejemplo en turismo:</b> disponibilidad de vuelos directos.
+              .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
+                img(src="@/assets/curso/tema1/img44.svg", style="max-width: 100px !important").mx-auto
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Tecnología")
+            .row.justify-content-center.align-items-center
+              .col-lg-8.col-md-12.order-2.order-lg-1
+                p.mb-0 Herramientas digitales para buscar, comparar y comprar.<br><br><b>Ejemplo en turismo:</b> reservas en línea y <em>apps</em> de viaje.
+              .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
+                img(src="@/assets/curso/tema1/img45.svg", style="max-width: 100px !important").mx-auto
       .col-lg-4.col-md-8
-        img(src="@/assets/curso/tema1/img40.png")
+        img(src="@/assets/curso/tema1/img57.png")
 
-
-
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-12.col-md-12
-        SlyderF(columnas="col-lg-6 col-xl-4")
-          .tarjeta.bg-fondo-2.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema1/img41.svg' alt='', style="width: 100px;").mx-auto
-            h4.text-center #[b Percepción de calidad] 
-            p.mb-3.text-center Valoración del servicio por parte del cliente antes y después de la compra.
-            p.mb-0.text-center Ejemplo en turismo: elegir un hotel con buenas calificaciones.
-          
-          .tarjeta.bg-fondo-2.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema1/img42.svg' alt='', style="width: 100px;").mx-auto
-            h4.text-center #[b Experiencias previas] 
-            p.mb-3.text-center Vivencias anteriores que influyen en las decisiones futuras de compra.
-            p.mb-0.text-center Ejemplo en turismo: volver a un destino ya visitado.
-
-          .tarjeta.bg-fondo-2.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema1/img43.svg' alt='', style="width: 100px;").mx-auto
-            h4.text-center #[b Promoción y #[i marketing]] 
-            p.mb-3.text-center Publicidad como ofertas y estrategias comerciales consultadas o que impactan al cliente.
-            p.mb-0.text-center Ejemplo en turismo: descuentos obtenidos en paquetes turísticos.
-
-          .tarjeta.bg-fondo-2.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema1/img44.svg' alt='', style="width: 100px;").mx-auto
-            h4.text-center #[b Accesibilidad y transporte] 
-            p.mb-3.text-center Facilidad para llegar al destino escogido.
-            p.mb-0.text-center Ejemplo en turismo: disponibilidad de vuelos directos.
-
-          .tarjeta.bg-fondo-2.p-4
-            .row.justify-content-center.mb-3
-              .col-8
-                img(src='@/assets/curso/tema1/img45.svg' alt='', style="width: 100px;").mx-auto
-            h4.text-center #[b Tecnología] 
-            p.mb-3.text-center Herramientas digitales para buscar, comparar y comprar.
-            p.mb-0.text-center Ejemplo en turismo: reservas en línea y #[i apps] de viaje.
 
 
     .row.justify-content-center.mb-5.align-items-center(data-aos="fade-right")
