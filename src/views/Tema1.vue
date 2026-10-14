@@ -88,40 +88,39 @@
             tbody
               tr
                 td Ley 300 de 1996
-                td Ley General de Turismo
-                td Regula la actividad turística en Colombia y establece principios para su desarrollo.
-                td Define derechos y deberes de los actores del sector, incluyendo la protección al usuario.
+                td Ley General de Turismo.
+                td Establece las bases para la organización, regulación y desarrollo de la actividad turística en Colombia.
+                td Define obligaciones de los prestadores y disposiciones para la protección de los usuarios turísticos.
               tr
                 td Ley 1101 de 2006
-                td Modificación de la Ley General de Turismo
-                td Fortalece el financiamiento y promoción del turismo.
-                td Mejora la calidad del servicio turístico, beneficiando al usuario final.
-              tr
-                td Ley 1558 de 2012
-                td Reforma a la Ley de Turismo
-                td Impulsa la competitividad, sostenibilidad y calidad del turismo.
-                td Garantiza mejores condiciones de servicio, seguridad y formalidad para el usuario.
+                td Modificación de la Ley General de Turismo.
+                td Fortalece los mecanismos de financiación, promoción y formalización del sector turístico.
+                td Contribuye al desarrollo de una oferta turística formal y al fortalecimiento de los servicios.
               tr
                 td Ley 1480 de 2011
-                td Estatuto del Consumidor
-                td Regula la protección de los consumidores en Colombia.
-                td Establece derechos como información veraz, calidad del servicio y protección frente a publicidad engañosa.
+                td Estatuto del Consumidor.
+                td Establece disposiciones sobre calidad, información, publicidad, garantías y protección de los consumidores.
+                td Protege al usuario frente a información engañosa, incumplimientos y prácticas comerciales que vulneren sus derechos.
+              tr
+                td Ley 1558 de 2012
+                td Modificación de la Ley General de Turismo.
+                td Promueve la competitividad, sostenibilidad, calidad y formalización de los servicios turísticos.
+                td Fortalece las condiciones de prestación de los servicios y los mecanismos de protección del usuario turístico.
+              tr
+                td Ley 1581 de 2012
+                td Ley de protección de datos personales.
+                td Establece principios y obligaciones para la recolección, almacenamiento, uso y tratamiento de datos personales.
+                td Protege la información personal de los huéspedes durante los procesos de reservas, registro y prestación del servicio.
               tr
                 td Decreto 1074 de 2015
-                td Decreto Único Reglamentario del Sector Comercio, Industria y Turismo
-                td Compila la normativa del sector comercio y turismo.
-                td Regula aspectos operativos que impactan la prestación del servicio al usuario.
+                td Decreto Único Reglamentario del Sector Comercio, Industria y Turismo.
+                td Compila disposiciones reglamentarias relacionadas con la actividad turística, los prestadores de servicios y la protección del consumidor.
+                td Establece condiciones reglamentarias aplicables a la comercialización y prestación de servicios turísticos.
               tr
-                td NTS (Normas Técnicas Sectoriales)
-                td Normas de calidad turística
-                td Establecen estándares de calidad para prestadores turísticos.
-                td Garantizan condiciones de calidad, seguridad y servicio para el usuario.
-              tr
-                td Registro Nacional de Turismo (RNT)
-                td Requisito obligatorio para prestadores
-                td Obliga a los prestadores a estar registrados formalmente.
-                td Protege al usuario al asegurar que el servicio proviene de empresas legalmente constituidas.
-
+                td Ley 2068 de 2020
+                td Modificación de la Ley General de Turismo.
+                td Actualiza disposiciones sobre sostenibilidad, competitividad, formalización y prestación de servicios turísticos.
+                td Fortalece las obligaciones de los prestadores y establece medidas relacionadas con la seguridad y protección de los usuarios.
         
 
     .row.justify-content-center.mb-0

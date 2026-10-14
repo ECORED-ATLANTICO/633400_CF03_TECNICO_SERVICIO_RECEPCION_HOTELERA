@@ -12,7 +12,7 @@
       img(src="@/assets/curso/tema6/img01.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text La venta en el sector turístico trasciende el simple intercambio de un servicio por un valor económico, ya que implica comprender las necesidades del cliente, asesorarlo adecuadamente y ofrecer soluciones que generen valor. En un entorno altamente competitivo, vender significa construir experiencias, establecer relaciones de confianza y contribuir a la satisfacción del usuario. Por ello, la venta se concibe como un proceso integral que articula comunicación, negociación y servicio, orientado no solo a concretar una transacción, sino a fidelizar al cliente y fortalecer la imagen del establecimiento.
+        p.banner-text La venta en el sector turístico trasciende el intercambio de un servicio por un valor económico, pues implica comprender las necesidades del cliente, brindar asesoría adecuada y ofrecer soluciones que generen valor. En un entorno competitivo, este proceso contribuye a establecer relaciones de confianza, orientar las decisiones de compra y generar expectativas acordes con los servicios ofrecidos. Por ello, la venta integra comunicación, negociación y atención al cliente, con el propósito de concretar transacciones comerciales, favorecer su satisfacción y fortalecer la imagen del establecimiento.
 
     separador
     

@@ -77,7 +77,7 @@
                       img(src="@/assets/curso/tema3/img09.svg", style="width: 100px;").mx-auto
                   .col-lg
                     p.mb-2 #[b Comunicación no verbal:] se transmite mediante gestos, expresiones, postura y lenguaje corporal. 
-                    p.mb-0 Ejemplo: sonrisa, contacto visual, tono de voz.
+                    p.mb-0 Ejemplo: sonrisa, contacto visual.
 
               .row.justify-content-center.align-items-center.p-4.p-lg-3                  
                 .row.align-items-center

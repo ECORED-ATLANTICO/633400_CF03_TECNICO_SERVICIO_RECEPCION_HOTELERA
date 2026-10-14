@@ -121,63 +121,49 @@
               img(src='@/assets/curso/tema5/img12.png', alt='')
             .col-lg-9.col-md-12
               p.mb-3 Ciclo de una cotización
+
               SlyderF(columnas="col-lg-6 col-xl-4 col-md-12 col-sm-12")
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema5/img13.svg' alt='', style="width: 100px;").mx-auto
-                  p.text-center.text-bold Paso 1.
-                  p.text-center Solicitud inicial por parte del cliente.
+                  p.text-center.text-bold Paso 1. Solicitud de cotización.
+                  p.text-center El cliente solicita información sobre los servicios de alojamiento, indicando fechas, número de huéspedes y requerimientos particulares.
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema5/img14.svg' alt='', style="width: 100px;").mx-auto
-                  p.text-center.text-bold Paso 2.
-                  p.text-center Recepción y registro formal de la solicitud (#[i Request for proposal] - RFP).
+                  p.text-center.text-bold Paso 2. Recepción y registro de la solicitud.
+                  p.text-center El establecimiento registra los datos del cliente y las características del servicio solicitado para gestionar la cotización.
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
-                  p.text-center.text-bold Paso 3.
-                  p.text-center Respuesta profesional al cliente.
+                  p.text-center.text-bold Paso 3. Verificación de disponibilidad y tarifas.
+                  p.text-center Se consulta la disponibilidad de habitaciones, las tarifas aplicables y las condiciones comerciales del establecimiento.
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema5/img16.svg' alt='', style="width: 100px;").mx-auto
-                  p.text-center.text-bold Paso 4.
-                  p.text-center Confirmación por parte del cliente y pago o depósito inicial para reservar.
+                  p.text-center.text-bold Paso 4. Elaboración y envío de la cotización.
+                  p.text-center Se prepara y presenta al cliente una propuesta que incluye servicios, tarifas, impuestos aplicables, condiciones de pago, políticas de cancelación y vigencia de la oferta.
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema5/img17.svg' alt='', style="width: 100px;").mx-auto
-                  p.text-center.text-bold Paso 5.
-                  p.text-center Gestión de grupos (#[i Rooming list]) para detallar ocupantes y distribuir habitaciones.
+                  p.text-center.text-bold Paso 5. Seguimiento de la propuesta.
+                  p.text-center Se atienden las inquietudes del cliente y, cuando corresponde, se realizan ajustes a la cotización según las condiciones comerciales autorizadas.
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema5/img18.svg' alt='', style="width: 100px;").mx-auto
-                  p.text-center.text-bold Paso 6.
-                  p.text-center Emisión de factura proforma.
-
-                .tarjeta.bg-white.p-4.h-100
-                  .row.justify-content-center.mb-3
-                    .col-8
-                      img(src='@/assets/curso/tema5/img19.svg' alt='', style="width: 100px;").mx-auto
-                  p.text-center.text-bold Paso 7.
-                  p.text-center Transferencia de saldo pendiente según condiciones pactadas.
-
-                .tarjeta.bg-white.p-4.h-100
-                  .row.justify-content-center.mb-3
-                    .col-8
-                      img(src='@/assets/curso/tema5/img20.svg' alt='', style="width: 100px;").mx-auto
-                  p.text-center.text-bold Paso 8.
-                  p.text-center Liquidación final, conciliación de pagos y cierre administrativo.
-    
+                  p.text-center.text-bold Paso 6. Aceptación o rechazo de la cotización.
+                  p.text-center El cliente comunica su decisión. Si acepta la propuesta, se inicia la formalización de la reserva conforme a los procedimientos del establecimiento. Si la rechaza, se registra el resultado y se cierra el proceso de cotización.
 
 </template>
 
